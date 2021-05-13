@@ -18,7 +18,7 @@ module.exports = {
         evmVersion: "byzantium",
         optimizer: { enabled: true, runs: 200 },
       },     
-      version: "^0.5.2",
+      version: "0.5.2",
       docker: false,
       parser: "solcjs",
     }
